@@ -1,2 +1,6 @@
 # database2
-Trabajo: es donde pasamos la base de datos a mongoDB
+trabajo realizado por:
+Josue Carpio Peña 
+Anthony Rodriguez 
+Diego Zeballos
+Ariana Leon 
